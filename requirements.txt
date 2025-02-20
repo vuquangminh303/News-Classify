@@ -1,0 +1,11 @@
+gradio
+fastapi
+transformers
+torch
+sklearn
+matplotlib
+seaborn
+tqdm
+pydantic
+threading
+uvicorn
