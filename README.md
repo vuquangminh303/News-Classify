@@ -7,7 +7,7 @@
    cd News-Classify
    ```
 2. **Install Requirements**
-  ``bash
+  ```bash
    pip install -r requirements.txt
    ```
 3. **App**
